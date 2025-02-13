@@ -6,6 +6,15 @@ A lightweight userscript that gives you quick keyboard controls for YouTube vide
 ![Version](https://img.shields.io/badge/version-1.0.1-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## ⚡ What's Cool About This?
+Ever get annoyed clicking through YouTube's speed menu? Me too! That's why I made this:
+
+- Quick keys to control video speed ([ and ])
+- Speed settings stick around between videos
+- Clean speed display right in the player
+- Super lightweight - won't slow you down
+- Works right out of the box
+
 ## 🎯 How to Get Started
 
 1. First, grab a userscript manager if you don't have one:
@@ -71,7 +80,7 @@ MIT License - do whatever you want with it! Just don't blame me if something bre
 
 ---
 
-Made with ☕ by [Your Name] - because life's too short for slow YouTube tutorials!
+Made with ☕ by Dattaraj - because life's too short for slow YouTube tutorials!
 
 ### 🌟 Star History
 
