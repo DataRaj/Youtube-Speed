@@ -25,7 +25,7 @@ Ever get annoyed clicking through YouTube's speed menu? Me too! That's why I mad
 2. Install the script:
    - **[Click here to install from Greasy Fork](https://greasyfork.org/en/scripts/526748-yt-speed-controller)** 
    
-   [![Install from Greasy Fork](https://raw.githubusercontent.com/JasonBarnabe/greasyfork/master/public/images/blacklogo512.png)
+   [![Install from Greasy Fork](https://raw.githubusercontent.com/JasonBarnabe/greasyfork/master/public/images/blacklogo128.png)
 
 3. Head to YouTube and try it out!
 
