@@ -5,19 +5,6 @@ A lightweight userscript that gives you quick keyboard controls for YouTube vide
 ![YouTube Speed Controller](https://img.shields.io/badge/YouTube-Speed_Controller-red)
 ![Version](https://img.shields.io/badge/version-1.0.1-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-<a href="https://greasyfork.org/en/scripts/526748-yt-speed-controller">
-
-<img scr="https://github.com/denilsonsa/denilsonsa.github.io/blob/master/icons/GreasyFork.svg" width="60px" height="60px" alt="greasy fork logo"/>
-</a>
-## ⚡ What's Cool About This?
-
-Ever get annoyed clicking through YouTube's speed menu? Me too! That's why I made this:
-
-- Quick keys to control video speed (`[` and `]`)
-- Speed settings stick around between videos
-- Clean speed display right in the player
-- Super lightweight - won't slow you down
-- Works right out of the box
 
 ## 🎯 How to Get Started
 
@@ -27,10 +14,11 @@ Ever get annoyed clicking through YouTube's speed menu? Me too! That's why I mad
    - [Violentmonkey](https://violentmonkey.github.io/)
 
 2. Install the script:
-   - Click [here](#) to install (coming soon!)
-   - Or copy the script into your userscript manager
+   - **[Click here to install from Greasy Fork](https://greasyfork.org/en/scripts/526748-yt-speed-controller)** 
+   
+   [![Install from Greasy Fork](https://raw.githubusercontent.com/JasonBarnabe/greasyfork/master/public/images/blacklogo512.png)
 
-3. Head to YouTube and try it out! 
+3. Head to YouTube and try it out!
 
 ## 🎹 Controls
 
