@@ -5,7 +5,10 @@ A lightweight userscript that gives you quick keyboard controls for YouTube vide
 ![YouTube Speed Controller](https://img.shields.io/badge/YouTube-Speed_Controller-red)
 ![Version](https://img.shields.io/badge/version-1.0.1-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+<a href="https://greasyfork.org/en/scripts/526748-yt-speed-controller">
 
+<img scr="https://github.com/denilsonsa/denilsonsa.github.io/blob/master/icons/GreasyFork.svg" width="60px" height="60px" alt="greasy fork logo"/>
+</a>
 ## ⚡ What's Cool About This?
 
 Ever get annoyed clicking through YouTube's speed menu? Me too! That's why I made this:
@@ -20,8 +23,8 @@ Ever get annoyed clicking through YouTube's speed menu? Me too! That's why I mad
 
 1. First, grab a userscript manager if you don't have one:
    - [Tampermonkey](https://www.tampermonkey.net/) (recommended)
-   - [Violentmonkey](https://violentmonkey.github.io/)
    - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+   - [Violentmonkey](https://violentmonkey.github.io/)
 
 2. Install the script:
    - Click [here](#) to install (coming soon!)
